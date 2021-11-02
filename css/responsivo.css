@@ -1,0 +1,245 @@
+@media screen and (max-width: 1596px) {
+  .produto-container img {
+    width: 300px;
+  }
+  .foto-produto {
+    width: 1491px;
+    margin: 0 52px 0 32px;
+  }
+  .sobre-container p {
+    margin: 0 298px;
+  }
+  .sobre-container ul {
+    margin: 0 380px;
+  }
+}
+@media screen and (max-width: 1371px) {
+  .foto-produto {
+    width: 1288px;
+  }
+  .produto-container img {
+    width: 250px;
+  }
+  .foto-produto {
+    margin: 40px 52px 40px 32px;
+  }
+  .sobre-container ul {
+    margin: 0 267px;
+  }
+}
+@media screen and (max-width: 1250px) {
+  .quebra {
+    height: 322px;
+  }
+  .produto {
+    padding: 0 20px;
+  }
+  .foto-produto {
+    width: 1160px;
+    margin: 40px 45px;
+  }
+  .sobre-container p {
+    margin: 0 125px;
+  }
+  .sobre-container ul {
+    margin: 0 207px;
+  }
+  .quebra-footer {
+    height: 294px;
+  }
+}
+@media screen and (max-width: 1024px) {
+  .produto-container {
+    height: 562px;
+  }
+  .produto-container img {
+    width: 200px;
+  }
+  .foto-produto {
+    width: 960px;
+    margin: 60px 32px;
+  }
+  .sobre-container p {
+    width: 700px;
+    margin: 0 160px;
+  }
+  .sobre-container ul {
+    margin: 0 94px;
+  }
+}
+@media screen and (max-width: 964px) {
+  .quebra {
+    height: 241px;
+  }
+  .foto-produto {
+    margin: 64px 0;
+  }
+  .quebra-footer {
+    height: 217px;
+  }
+}
+@media screen and (max-width: 834px) {
+  .produto-container img {
+    width: 180px;
+  }
+  .foto-produto {
+    width: 752px;
+    margin: 64px 41px;
+  }
+  .produto {
+    padding: 0 10px 0 0;
+  }
+  .sobre-container p {
+    margin: 0 67px;
+  }
+  .sobre-container ul {
+    margin: 0;
+    width: 822px;
+  }
+  .quebra-footer {
+    height: 177px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .quebra {
+    height: 200px;
+  }
+  .foto-produto {
+    margin: 64px 8px;
+  }
+  .sobre-container p {
+    margin: 0 34px;
+  }
+  .sobre-container ul {
+    width: 710px;
+    margin: 29px;
+  }
+  .sobre-container li {
+    width: 111px;
+    height: 122.5px;
+    padding: 10px;
+  }
+  .sobre-container img {
+    width: 113px;
+  }
+}
+@media screen and (max-width: 543px) {
+  .quebra {
+    height: 146px;
+  }
+  .produto-container {
+    height: 676px;
+  }
+  .foto-produto {
+    width: 380px;
+    flex-wrap: wrap;
+    margin: 0 81px;
+  }
+  .sobre-container {
+    height: 1120px;
+  }
+  .sobre-container p {
+    margin: 0 116px;
+    width: 310px;
+  }
+  .sobre-container ul {
+    display: flex;
+    flex-wrap: wrap;
+    width: 354px;
+    margin: 34px 94px;
+  }
+  .quebra-footer {
+    height: 120px;
+  }
+}
+@media screen and (max-width: 428px) {
+  .quebra {
+    height: 100px;
+  }
+  .foto-produto {
+    margin: 0 24px;
+  }
+  .sobre-container p {
+    margin: 0 59px;
+  }
+  .sobre-container ul {
+    margin: 30px 34px;
+  }
+  .footer-container {
+    height: 310px;
+  }
+  .footer-container ul {
+    flex-direction: column;
+  }
+}
+@media screen and (max-width: 414px) {
+  .quebra-footer {
+    height: 100px;
+  }
+}
+@media screen and (max-width: 390px) {
+  .foto-produto {
+    margin: 0 5px;
+  }
+  .sobre-container p {
+    margin: 0 40px;
+  }
+  .sobre-container ul {
+    margin: 30px 18px;
+  }
+}
+@media screen and (max-width: 384px) {
+  .produto-container img {
+    width: 150px;
+  }
+  .foto-produto {
+    width: 320px;
+    margin: 0 32px;
+  }
+}
+@media screen and (max-width: 375px) {
+}
+@media screen and (max-width: 360px) {
+  .foto-produto {
+    margin: 0 20px;
+  }
+  .sobre-container p {
+    margin: 0 25px;
+  }
+  .sobre-container ul {
+    margin: 30px 0;
+  }
+}
+@media screen and (max-width: 320px) {
+  .produto-container {
+    height: 1100px;
+  }
+  .produto-container h2 {
+    width: 300px;
+    margin: 30px 0;
+  }
+  .foto-produto {
+    flex-direction: column;
+    padding: 0;
+    width: 150px;
+    margin: 0 85px;
+  }
+  .produto {
+    width: 150;
+  }
+  .sobre-container {
+    height: 1490px;
+  }
+  .sobre-container p {
+    width: 280px;
+    margin: 0 20px;
+  }
+  .sobre-container ul {
+    flex-direction: column;
+    width: 180px;
+    margin: 0 70px;
+  }
+  .quebra-footer {
+    height: 74px;
+  }
+}
