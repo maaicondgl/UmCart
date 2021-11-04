@@ -176,6 +176,9 @@
   .quebra-footer {
     height: 100px;
   }
+  .produto-container {
+    height: 727px;
+  }
 }
 @media screen and (max-width: 390px) {
   .foto-produto {
